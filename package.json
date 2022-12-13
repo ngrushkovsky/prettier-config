@@ -1,0 +1,18 @@
+{
+  "name": "@ngrushkovsky/prettier-config",
+  "version": "0.0.0",
+  "description": "An opinionated set of Prettier options.",
+  "license": "MIT",
+  "author": "Nikolai Grushkovsky <n@ngrushkovsky.com> (https://ngrushkovsky.com)",
+  "repository": "ngrushkovsky/prettier-config",
+  "main": "prettier.config.js",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
