@@ -1,6 +1,6 @@
 {
   "name": "@ngrushkovsky/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An opinionated set of Prettier options.",
   "license": "MIT",
   "author": "Nikolai Grushkovsky <n@ngrushkovsky.com> (https://ngrushkovsky.com)",
